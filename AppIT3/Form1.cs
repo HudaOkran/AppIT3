@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//juvgd
+//هذا التغيير في الكود بعد الدفع
 namespace AppIT3
 {
     public partial class Form1 : Form
